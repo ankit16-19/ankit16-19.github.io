@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: ankit16-19/ankit16-19.github.io # <gh-username>/<repo>
-    repo_id: 658096812
+    repo_id: R_kgDOJznCrA
     category: Comments
-    category_id: 39700214
+    category_id: DIC_kwDOJznCrM4CXcb2
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
