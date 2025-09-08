@@ -13,8 +13,7 @@ Hp thinclient t740 comes with a ready to use PCIE slot, but Lenovo tiny pc i.e 7
 I will be using dual 10Gbpx sfp+ card on all core machines, wiht PCIE3.0 x8, the max theoriticla speed can acieve is 64Gbps dual band. Which mean we can expand upto dual 25Gbps, total to 50Gbps.
 
 ![image.png](/assets/img/image-2.png)
-
-__PCIE__SPEEDs__
+_PCIE_SPEEDs_
 
 ## Arsenal
 
